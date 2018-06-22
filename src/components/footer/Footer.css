@@ -1,0 +1,13 @@
+.icons {
+  transition: 0.7s;
+  color: #182628;
+}
+
+.icons2 {
+  transition: 0.7s;
+  color: #fefefe;
+}
+
+.icons:hover {
+  transform: scale(1.5);
+}

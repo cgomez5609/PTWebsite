@@ -1,0 +1,60 @@
+@keyframes plans {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.gym-on1 {
+  animation: plans ease 4s forwards;
+}
+
+.gym-group {
+  animation: plans ease 3s forwards;
+}
+
+.home-group {
+  animation: plans ease 2s forwards;
+}
+
+.home-on1 {
+  animation: plans ease 1s forwards;
+}
+
+.plans {
+  width: 110%;
+  border: 2px solid black;
+  margin: 1px;
+  color: rgb(195, 201, 201);
+}
+
+.plans-top-group {
+  height: 6vh;
+  background-color: #182628;
+}
+
+.plans-top-one {
+  height: 6vh;
+  background-color: #3b945e;
+}
+
+.plans-title {
+  text-align: center;
+}
+
+.plans-pricing {
+  text-align: center;
+}
+
+.plans-pricing strong {
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  font-weight: lighter;
+}
+
+.plans-description {
+  width: 90%;
+  margin-left: 10px;
+}
