@@ -17,11 +17,11 @@ const Router = () => {
       <div>
         <Switch>
           <Route path="/" component={HomePage} exact={true}/>
-          <Route path="/bio" component={BioPage} />
-          <Route path="/testimonials" component={TestPage} />
-          <Route path="/contact" component={ContactPage} />
-          <Route path="/pricing" component={PersonalTrainingPage} />
-          <Route path="/nutrition" component={Nutrition} />
+          <Route path="/bio/" component={BioPage} />
+          <Route path="/testimonials/" component={TestPage} />
+          <Route path="/contact/" component={ContactPage} />
+          <Route path="/pricing/" component={PersonalTrainingPage} />
+          <Route path="/nutrition/" component={Nutrition} />
           <Route component={PageNotFound} />
         </Switch>
       </div>
