@@ -6,7 +6,7 @@ class Testimonial extends Component {
     return (
       <div className="col-xl-4 col-lg-4 col-md-6 col-xs-12 secondary-test">
         <div className="sub-testimonials" style={{marginTop: "20px"}}>
-          <img src={this.props.photo} alt="nothing found" width="350" height="340" className="image" />
+          <img src={this.props.photo} alt="nothing found" className="test-image" />
           <p className="testimonials-name" ref="testimonial">"{this.props.testimonial}"</p>
           <p className="testimonials-name" ref="name">{this.props.name}</p>
         </div>

@@ -5,6 +5,7 @@
 .contact-page {
   padding: 30px;
   height: 62vh;
+  margin-bottom: 70px;
 }
 
 .contact-title {
@@ -17,8 +18,8 @@
 
 .contact-box {
   background-color: #182628;
-  height: 50vh;
-  padding: 35px;
+  height: auto;
+  padding: 40px;
   border-radius: 50px;
 }
 
@@ -27,5 +28,5 @@
 }
 
 .contact-message {
-  width: 90%;
+  width: 100%;
 }

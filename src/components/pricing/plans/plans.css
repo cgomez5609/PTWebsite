@@ -24,7 +24,7 @@
 }
 
 .plans {
-  width: 110%;
+  width: 100%;
   border: 2px solid black;
   margin: 1px;
   color: rgb(195, 201, 201);
@@ -55,6 +55,6 @@
 }
 
 .plans-description {
-  width: 90%;
+  width: 95%;
   margin-left: 10px;
 }
