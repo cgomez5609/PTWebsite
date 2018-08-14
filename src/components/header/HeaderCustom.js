@@ -8,7 +8,7 @@ const HeaderHomepage = (props) => {
       <header id="header-homepage">
         <div className="container">
           <nav className="navbar navbar-expand-lg navbar-light bg">
-            <NavLink activeClassName="when-active" className="navbar-brand debs-name" to="/" exact={true}><span style={{color:"#25de20"}}>DEBORAH</span> <span style={{color:"#25de20"}}>STERN</span></NavLink>
+            <NavLink activeClassName="when-active" className="navbar-brand debs-name" to="/" exact={true}>DEBORAH <span style={{color:"#fefefe"}}>STERN</span></NavLink>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
             </button>

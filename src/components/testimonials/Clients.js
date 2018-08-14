@@ -5,6 +5,7 @@ import Kristen from '../images/testimonial-photos/kristen-beck.jpg';
 import Sindy from '../images/testimonial-photos/sindy.jpg';
 import Nikki from '../images/testimonial-photos/nikki.jpg';
 import Mike from '../images/testimonial-photos/mike.jpeg';
+import Barbara from '../images/testimonial-photos/barbara.jpg';
 
 export const Clients = [
   {
@@ -88,5 +89,21 @@ export const Clients = [
     I’m pain-free and my doctor reduced my meds by half. Now my goal is to get entirely off the \
     meds and with Deb in my corner, I’m confident I can do it.",
     photo: Mike
+  },
+  {
+    id: 6,
+    name: "Barbara",
+    testimonial: "For years, my wife tried to get me to workout but I’d joined enough gyms \
+    to know that I’d be a dues-paying, no-show in no time. Then my wife starting training \
+    with Deb and couldn’t stop raving about her – that and, well, the results were undeniable, \
+    so I decided to give Deb a shot. From the get-go, I was hooked. Deb is absolutely amazing! \
+    I came to her with a bum shoulder and bad knees and was on blood pressure, diabetes and \
+    cholesterol meds. In no time she had me doing squats, planks and burpees – all while she \
+    counseled me on how to further improve my health by eating better. Six months later, I’m \
+    still at it. I’ve lost three inches around my waste and have built up my chest, shoulders, \
+    arms and legs to the point where I don’t care to build more muscle. But more importantly, \
+    I’m pain-free and my doctor reduced my meds by half. Now my goal is to get entirely off the \
+    meds and with Deb in my corner, I’m confident I can do it.",
+    photo: Barbara
   },
 ]

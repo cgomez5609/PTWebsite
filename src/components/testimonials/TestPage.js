@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import './TestPage.css';
 import Testimonial from "./testimonial/testimonial.js";
 import {Clients} from './Clients.js';
-import Header from '../header/HeaderHomepage.js';
+import Header from '../header/HeaderCustom.js';
 import Footer from '../footer/Footer.js';
 
 class TestPage extends Component {
@@ -15,11 +15,11 @@ class TestPage extends Component {
             <h1 className="testimonial-title">Success Stories</h1>
             <div className="row main-test-box" style={{marginBottom: "30px"}}>
               <div className="col-lg-6 col-sm-12 col-xm-12">
-                <img className="main-image" src={Clients[3].photo} alt="Photo here"/>
+                <img className="main-image" src={Clients[6].photo} alt="Photo here"/>
               </div>
               <div className="col-lg-6 col-sm-12">
-                <p className="main-test">"{Clients[3].testimonial}"</p>
-                <p className="main-test">{Clients[3].name}</p>
+                <p className="main-test">"{Clients[6].testimonial}"</p>
+                <p className="main-test">{Clients[6].name}</p>
               </div>
             </div>
             <hr></hr>

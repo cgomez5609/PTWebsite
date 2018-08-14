@@ -1,7 +1,7 @@
 import React from 'react';
 import NutritionPlan from './plans/NutritionPlan.js';
 import Footer from '../footer/Footer.js';
-import Header from '../header/HeaderHomepage.js';
+import Header from '../header/HeaderCustom.js';
 import './Nutrition.css';
 import Healthy from '../images/jamie.jpg';
 

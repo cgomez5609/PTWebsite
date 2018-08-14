@@ -29,7 +29,7 @@ const NutritionPlan = (props) => {
               <p className="">The first session usually lasts
                 2 hours and the shopping can be between 1-2 hours. All the emails/texts/phone
                 calls are included in the price for the 2 weeks. I offer an extension plan
-                or clients who would like to continue doing daily food logs with me past the
+                for clients who would like to continue doing daily food logs with me past the
                 2 weeks. Certain clients  are not  ready to continue on their own, just yet,
                 and need a week or two of more accountability and suggestions/advice/communication. </p>
           </div>

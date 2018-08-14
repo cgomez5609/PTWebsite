@@ -2,7 +2,7 @@ import React from 'react';
 import './BioPage.css';
 import BioPhoto from '../images/DebsPhoto.webp';
 import Footer from '../footer/FooterHomePage.js';
-import Header from '../header/HeaderHomepage.js';
+import Header from '../header/HeaderCustom.js';
 
 const BioPage = (props) => {
   return (
